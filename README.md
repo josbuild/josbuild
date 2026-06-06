@@ -79,16 +79,16 @@ Organization, Object Oriented Programming, Computational Methods, Computer progr
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sudodevx&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=josbuild&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sudodevx&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josbuild&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudodevx&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josbuild&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
