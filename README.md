@@ -1,7 +1,7 @@
 # Hi, I'm Yosef Alemu 👋🏻
 
 <p align="left"> 
-  Full-Stack Developer specializing in AI automation. With a foundation in competitive programming, I build high-performance applications that leverage LLMs to solve critical infrastructure and productivity bottlenecks.
+  A Full-Stack Developer specializing in AI automation. With a foundation in competitive programming, I build high-performance applications that leverage LLMs to solve critical infrastructure and productivity bottlenecks.
 </p>
 
 <p align="center">
